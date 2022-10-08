@@ -1,0 +1,12 @@
+/node_modules
+/src
+/datas/all_issuing_btc_adresses.csv
+/datas/libre_accounts_issued_pbtc.csv
+/datas/current_balance_of_each_address.csv
+/datas/total_balance_list.csv
+/datas/total_circulating_PBTC.json
+/datas/result.json
+package.json
+package-lock.json
+README.md
+yarn.lock
